@@ -4,8 +4,8 @@
     <img width="200" src="https://github.com/CodeLoVL/CodeLoVL/blob/main/z5352664349314_5f0b7bc1a83ebedb945c8a6ccb1bbcad.jpg">
 </p>
 
-
-
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px > 
+</picture><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines= Mê Code hơn mê mấy cô bận đầm "></a> 
 
 ## 🌐Socials (Liên Hệ)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100068761214613&mibextid=LQQJ4d) 
